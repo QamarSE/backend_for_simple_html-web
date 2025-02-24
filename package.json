@@ -1,0 +1,21 @@
+{
+  "name": "mywebbackend",
+  "version": "1.0.0",
+  "description": "this backend for semple  html web site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "htmlweb "
+  },
+  "keywords": [
+    "html",
+    "node",
+    "express",
+    "myWeb"
+  ],
+  "author": "Qamar Bilal",
+  "license": "ISC"
+}
